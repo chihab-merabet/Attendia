@@ -2,7 +2,7 @@
 
 Attendia is an intuitive HR management platform designed to streamline attendance tracking, task management, and employee communication.
 
-This repository contains the frontend and backend code for the Attendia web application. For the mobile app component, please refer to our [Attendia Mobile App Repository](https://github.com/yourusername/attendia-mobile).
+This repository contains the frontend and backend code for the Attendia web application. For the mobile app component, please refer to our [Attendia Mobile App Repository](https://github.com/yourusername/attendia-mobile-app).
 
 ## Features
 
