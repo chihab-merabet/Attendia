@@ -15,6 +15,6 @@ This repository contains the frontend and backend code for the Attendia web appl
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Node.js, Express
-- **Database**: MongoDB (or your database of choice)
+- **Backend**: Node.js
+- **Database**: SQL
 - **Version Control**: Git
